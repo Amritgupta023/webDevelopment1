@@ -1,0 +1,83 @@
+.marginTop{
+	margin-top: 3%;
+}
+
+.marginBottom{
+	margin-bottom: 3%;
+}
+
+.marginLeftRight{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.orangeColor{
+    color:#f29666;
+}
+
+.backgroundColor{
+	background-color: #2e3e4e;
+}
+
+.whiteText{
+    color:white;
+}
+
+.text_with_padding_both_side{
+    padding-right: 7%;
+    padding-left: 7%;
+}
+.blueColor{
+    color: #1e83bf;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}
+
+.buttonSuccess{
+	position: relative;
+	/*margin-left:  46%;*/
+	margin-top: -2%;
+	background-color:#1e83bf;
+}
+
+
+.navBar{
+list-style:none;
+float:left;
+padding:15px;
+text-align: center;
+display:block;
+
+
+
+}
+
+.font__size_rem{
+	font-size: 3rem;
+	
+}
